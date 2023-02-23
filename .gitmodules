@@ -1,0 +1,3 @@
+[submodule "micropython_esp32/code/microdot"]
+	path = micropython_esp32/code/microdot
+	url = https://github.com/miguelgrinberg/microdot.git
