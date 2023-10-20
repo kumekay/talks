@@ -6,6 +6,8 @@ theme: dracula
 
 # Jednoduché dálkové ovládání s MicroPythonem a ESP-NOW
 
+Simple remote control with MicroPython and ESP-NOW
+
 ## ESP Community Meeting Brno - 20.10.2023
 
 ### _Sergei Silnov_
@@ -153,7 +155,7 @@ async def listener(enow, led):
 
 ---
 
-## How the recevier knows that the packet is for it?
+## How the does the receiver know that the packet is for it?
 
 ```python
 # Broadcast address
@@ -183,7 +185,7 @@ accepts a MAC address and a key. The key is used to encrypt the data sent to the
 Hash-based message authentication code can help
 
 ```bash
-mpremote connect /dev/usbserial-210 mip install hmac
+mpremote connect /dev/tty.usbserial-210 mip install hmac
 ```
 
 ---

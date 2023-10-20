@@ -4,6 +4,7 @@
 
 ### 2023
 
+- 20.10.2023 [Simple remote control with MicroPython and ESP-NOW](./micropython_espnow/slides.md)
 - 23.02.2023 [Micropython on Espressif Chips (ESP32): A Practical Introduction](./micropython_esp32/slides.pdf)
 
 ### 2021

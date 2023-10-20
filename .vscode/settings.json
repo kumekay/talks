@@ -1,6 +1,0 @@
-{
-  "python.formatting.provider": "black",
-  "markdown.marp.themes": [
-    "./themes/dracula.css"
-  ]
-}
